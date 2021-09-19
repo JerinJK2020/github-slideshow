@@ -5,8 +5,7 @@ layout: slide
 title: "Welcome to our second slide!"
 
 ---
-
-Jerin Joseph
+I am from Kerala
 
 Use the left arrow to go back!
 
